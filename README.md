@@ -1,5 +1,5 @@
 # Group-1-Project
-## Skin lesion detection
+## Skin Lesion Detection
 
 ### What topic did we choose and why did we choose it?
 
