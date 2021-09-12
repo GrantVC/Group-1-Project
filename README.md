@@ -6,3 +6,4 @@ HAM10000_metadata.csv obtained from Kaggle. The data set contains images, diagno
 ## Technologies we are using:
 1.	GoogleColab with Pandas to clean the data
 2.	PGAdmin 4 to store the data
+3.	SciKit-Learn to train the data
