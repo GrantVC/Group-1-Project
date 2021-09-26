@@ -16,7 +16,7 @@ Skin cancer detection based on lesion pictures is the topic we chose. Most peopl
 Tschandl, Philipp, 2018, "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions", https://doi.org/10.7910/DVN/DBW86T, Harvard Dataverse, V3, UNF:6:/APKSsDGVDhwPBWzsStU5A== [fileUNF]
 
 ### Resources
-- Data Storage: Amazon S3
+- Visual Data Storage: Amazon S3
 - Database: PostgreSQL
 - Languages: SQL, Python
 
