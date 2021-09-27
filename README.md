@@ -13,6 +13,7 @@ Skin cancer detection based on lesion pictures is the topic we chose. Most peopl
 4.	We have exchanged emails and phone numbers for texting and quicker communication
 
 ### Database Utilization
+
 The dataset includes a metadata spreadsheet and four spreadsheets containing pixel counts for the sample images.
   - ![image](https://user-images.githubusercontent.com/83254435/133031814-8f12f8e6-ceb9-41ed-ad26-154fc2361f18.png)
   - ![image](https://user-images.githubusercontent.com/83254435/133032037-62079814-8191-4fb4-af83-dcf6787781c4.png)
@@ -22,3 +23,35 @@ The four spreadsheets can be joined into a single document. For the sake of spac
   - "image_id" primary key will correspond with the sample images used to train the model
     - ![image](https://user-images.githubusercontent.com/83254435/133032897-c36a3ad6-4f19-4b90-a20b-4151f02566e7.png)
  
+
+### ML Model
+
+Lesion Image Classification using Logistic Regression (Binary Classification)
+
+Logistic regression uses a sigmoid function which is not linear.
+
+Steps to follow:
+- Import all necessary libraries, such as:
+
+1. Numpy and Pandas are used for data handling and processing.
+2. PyTorch and Torchvision contains ML functions.
+3. Matplotlib used for visualizing the data.
+4. Jovian saves code in jovian.ml platform.
+
+Preparing the data: the code can be ran in Kaggle which makes processing the data easier since it is on the cloud and Kaggle hosts the data.
+
+- Load the dataset
+- Separate the x data and y data from the data, then set the shape of x and y.
+- Put x and y in a pandas dataframe.
+- Check the unique values and visualize it.
+- Optimize the parameters to best fit the training data
+
+- Train/Test dataset (works well with large samples)
+*we expect the model to have a low accuracy since it contains random values. Where the accuracy is defined as the amount of numbers the model correctly predicts by total input images.
+
+- Visualization of training dataset.
+- Modeling (Logistic Regression using Scikit Learn)
+- Compute the accuracy result.
+ 
+Here is an article that uses data from Kaggle as well and it is about Image Classification using Logistic Regression on the American Sign Language MNIST, https://medium.com/@gryangalario/image-classification-using-logistic-regression-on-the-american-sign-language-mnist-9c6522242ddf
+![image](https://user-images.githubusercontent.com/81715217/134830920-2ceceb57-4d03-496f-8abf-3dee82eb43ad.png)
