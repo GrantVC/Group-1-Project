@@ -12,3 +12,7 @@ Skin cancer detection based on lesion pictures is the topic we chose. Most peopl
 3.	Scheduled zoom meetings
 4.	We have exchanged emails and phone numbers for texting and quicker communication
 
+
+### Slide show link
+
+https://docs.google.com/presentation/d/1pEROkfh9EN2Nmx_0xZguhjlHKjxNGgsoeJCavWnAmtA/edit?usp=sharing
