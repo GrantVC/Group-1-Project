@@ -12,6 +12,11 @@ Skin cancer detection based on lesion pictures is the topic we chose. Most peopl
 3.	Scheduled zoom meetings
 4.	We have exchanged emails and phone numbers for texting and quicker communication
 
+### Slide show link
+
+https://docs.google.com/presentation/d/1pEROkfh9EN2Nmx_0xZguhjlHKjxNGgsoeJCavWnAmtA/edit?usp=sharing
+
+
 ### Data Source
 Tschandl, Philipp, 2018, "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions", https://doi.org/10.7910/DVN/DBW86T, Harvard Dataverse, V3, UNF:6:/APKSsDGVDhwPBWzsStU5A== [fileUNF]
 
@@ -63,3 +68,4 @@ Preparing the data: the code can be ran in Kaggle which makes processing the dat
  
 Here is an article that uses data from Kaggle as well and it is about Image Classification using Logistic Regression on the American Sign Language MNIST, https://medium.com/@gryangalario/image-classification-using-logistic-regression-on-the-american-sign-language-mnist-9c6522242ddf
 ![image](https://user-images.githubusercontent.com/81715217/134830920-2ceceb57-4d03-496f-8abf-3dee82eb43ad.png)
+
