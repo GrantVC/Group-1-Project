@@ -1,5 +1,4 @@
-# Group 1 Project
-## Skin Lesion Detection
+# Due to team member absence, this project has been re-opened in a [new repository.](https://github.com/sdunderhill/Skincancer-detection)
 
 ### What topic did we choose and why did we choose it?
 
